@@ -13,7 +13,7 @@ Welcome to *Turtle Crossing!* In this game, you control a turtle trying to cross
 
 ## *📸 SCREENSHOTS*  
 Here's a preview of the game:
-**[!Turtle Crossing screenshot]**(turtle-crossing-screenshot.png)
+**[!Turtle Crossing screenshot](turtle-crossing-screenshot.png)**
 
 ---
 
