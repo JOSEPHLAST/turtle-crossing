@@ -19,30 +19,30 @@ Here's a preview of the game:
 
 ## *🚀 INSTALLATION AND SETUP*  
 ### *1️⃣ Clone the Repository*  
-git clone https://github.com/JOSEPHLAST/turtle-crossing-game.git
-cd turtle-crossing-game
+git clone https://github.com/JOSEPHLAST/turtle-crossing-game.git   
+cd turtle-crossing-game   
 
-### *2️⃣ Run the Game*
-python main.py
+### *2️⃣ Run the Game*   
+python main.py   
 
-🎮 HOW TO PLAY
-🔼 Move Up: Press the Up Arrow key
-🚗 Avoid Cars: If you get hit, the game resets
-🏆 Reach the top: Each successful crossing increases the level and speed
+## 🎮 HOW TO PLAY
+🔼 Move Up: Press the Up Arrow key  
+🚗 Avoid Cars: If you get hit, the game resets  
+🏆 Reach the top: Each successful crossing increases the level and speed  
 
-🛠 TECHNOLOGIES USED
+## 🛠 TECHNOLOGIES USED
 	•	🐍 Python
 	•	🐢 Turtle Library
 	•	🎨 Object-Oriented Programming (OOP) Structure
 
-🚀 FUTURE IMPROVEMENTS
-✨ Add different difficulty levels 🎮
-✨ Introduce power-ups and extra lives 💖
-✨ Implement a scoring system 🏅
+## 🚀 FUTURE IMPROVEMENTS
+✨ Add different difficulty levels 🎮   
+✨ Introduce power-ups and extra lives 💖   
+✨ Implement a scoring system 🏅   
 
-📫 CONNECT WITH ME
-🔗 GitHub: [github.com/JOSEPHLAST](https://github.com/JOSEPHLAST)
-🔗 Portfolio: [josephlast.github.io](https://josephlast.github.io)
-🔗 LinkedIn: [JOSEPHLAST](https://www.linkedin.com/in/josephlast-a-aaa813354/)
+## 📫 CONNECT WITH ME
+🔗 GitHub: [github.com/JOSEPHLAST](https://github.com/JOSEPHLAST)   
+🔗 Portfolio: [josephlast.github.io](https://josephlast.github.io)   
+🔗 LinkedIn: [JOSEPHLAST](https://www.linkedin.com/in/josephlast-a-aaa813354/)   
 
 🚀 “Keep crossing, keep coding!”
