@@ -22,7 +22,7 @@ Here's a preview of the game:
 git clone https://github.com/JOSEPHLAST/turtle-crossing-game.git
 cd turtle-crossing-game
 
-2️⃣ Run the Game
+### *2️⃣ Run the Game*
 python main.py
 
 🎮 HOW TO PLAY
