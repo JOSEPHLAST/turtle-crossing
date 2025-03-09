@@ -1,9 +1,9 @@
 # 🐢 TURTLE CROSSING GAME🚦  
 
-### *OVERVIEW*  
+## OVERVIEW  
 Welcome to *Turtle Crossing!* In this game, you control a turtle trying to cross a busy road while avoiding fast-moving cars. Can you make it to the other side safely? 🏁  
 
-### 🎮 FEATURES  
+## 🎮 FEATURES  
 ✅ Player-controlled turtle using keyboard inputs 🕹  
 ✅ Randomly moving cars for added challenge 🚗  
 ✅ Increasing difficulty as you level up 🔥  
