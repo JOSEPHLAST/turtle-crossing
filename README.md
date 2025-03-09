@@ -3,7 +3,7 @@
 ### *OVERVIEW*  
 Welcome to *Turtle Crossing!* In this game, you control a turtle trying to cross a busy road while avoiding fast-moving cars. Can you make it to the other side safely? 🏁  
 
-### *🎮 FEATURES*  
+### 🎮 FEATURES  
 ✅ Player-controlled turtle using keyboard inputs 🕹  
 ✅ Randomly moving cars for added challenge 🚗  
 ✅ Increasing difficulty as you level up 🔥  
@@ -11,13 +11,13 @@ Welcome to *Turtle Crossing!* In this game, you control a turtle trying to cross
 
 ---
 
-## *📸 SCREENSHOTS*  
+## 📸 SCREENSHOTS  
 Here's a preview of the game:
 **[!Turtle Crossing screenshot](turtle-crossing-screenshot.png)**
 
 ---
 
-## *🚀 INSTALLATION AND SETUP*  
+## 🚀 INSTALLATION AND SETUP  
 ### *1️⃣ Clone the Repository*  
 git clone https://github.com/JOSEPHLAST/turtle-crossing-game.git   
 cd turtle-crossing-game   
